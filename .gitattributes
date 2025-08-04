@@ -1,2 +1,2 @@
-*.ipynb linguist-language=Jupyter
+*.ipynb linguist-language=Python
 *.html linguist-documentation
