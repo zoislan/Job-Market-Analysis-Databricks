@@ -36,11 +36,3 @@ The notebook is organized into five sections:
 - **Languages**: Python (Pandas), SQL
 - **Libraries**: Matplotlib, Seaborn, Databricks Visualizations
 
----
-
-## 📁 Files in This Repo
-
-| File                        | Description                                      |
-|-----------------------------|--------------------------------------------------|
-| `job-market-analysis.ipynb` | Notebook with code and markdown (GitHub view)   |
-| `job-market-analysis.html`  | Full output version (hosted via GitHub Pages)   |
